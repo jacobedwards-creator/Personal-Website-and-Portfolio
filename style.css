@@ -1,3 +1,10 @@
 nav{background-color: rgb(0, 0, 0);
     font-family: 'Times New Roman', Times, serif;
     color: rgb(114, 114, 220);
+}
+
+.Face{position:absolute;}
+.Wumbo{text-align: end;}
+.quote{border: 1px;
+    background-color: black;
+    color: aliceblue;
